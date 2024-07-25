@@ -1,0 +1,402 @@
+
+
+
+
+{
+    "dbdata":[
+      
+{
+    "title": "Networking",
+    "type": "Networking",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/networking.png",
+   
+    "id": 1
+},
+
+{
+    "title": "Seminar",
+    "type": "Seminars",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/seminar.png",
+    "id": 2
+},
+{
+    "title": "Tech",
+    "type": "Tech",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/tech.png",
+    "id": 3
+},
+
+{
+    "title": "Sports",
+    "type": "Sports",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/sport.png",
+    "id": 4
+},
+
+
+{
+    "title": "Wedding",
+    "type": "Wedding",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/wedding.png",
+    "id": 5
+},
+{
+    "title": "Culture",
+    "type": "Culture",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/culture.png",
+    "id": 6
+},
+{
+    "title": "Valada Hotel and Resort Ltd",
+    "type": "4+ Rating",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/valada1.png",
+    "id": 7
+},
+{
+    "title": "The Point Hotel",
+    "type": "Hotels",
+   "date": "25th July to 5th August 2024",
+   "address": "26 Martin Luther street, beside rayfield golf club, Jos",
+
+   "image1":"/images/point1.png",
+    "id": 8
+},
+{
+    "title": "The Kramius Luxury Inn",
+    "type": "Hotels",
+   "date": "25th July to 5th August 2024",
+   "address": "Lodit Street, Rayfield Rd, behind Saint Finbarr's Catholic Church, Jos 930103",
+   "image1":"/images/kramiusluxury.png",
+    "id": 9
+},
+
+{
+    "title": "Luxury Lauberge",
+    "type": "Hotels",
+   "date": "25th July to 5th August 2024",
+   "address": "House No 2, Road 8, Do Chili Rwang, Street, Off Alh. Abubakar road Rayfield RWKA-070, Jos Nigeria’s ",
+   "image1":"/images/lauberge.png",
+    "id": 10
+},
+{
+    "title": "Swiss Executive",
+    "type": "Hotels",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/swiss.png",
+    "id": 11
+},
+{
+    "title": "Silk Suiltes",
+    "type": "Hotels",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/silk.png",
+    "id": 12
+},
+{
+    "title": "Appartment in Jos",
+    "type": "Appartments",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/apart4.png",
+    "id": 13
+},
+{
+    "title": "Appartment in Jos",
+    "type": "Appartments",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/apart1.png",
+    "id": 14
+},
+{
+    "title": "Appartment in Jos",
+    "type": "Appartments",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/apart2.png",
+    "id": 15
+},
+{
+    "title": "Appartment in Jos",
+    "type": "Appartments",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/apart3.png",
+    "id": 16
+},
+{
+    "title": "AIps Hospitals and Diagnosis",
+    "type": "Hospitals",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/apart3.png",
+    "id": 17
+},
+{
+    "title": "Rayfield Medical Services Ltd",
+    "type": "Hospitals",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/rayfield.png",
+    "id": 18
+},
+{
+    "title": "Jos University Teaching Hospital",
+    "type": "Hospitals",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/jos.png",
+    "id": 19
+},
+{
+    "title": "Dalsyland Orthopaedic and  Trauma",
+    "type": "Hospitals",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/dalsy.png",
+    "id": 20
+},
+{
+    "title": "Becardi Restaurant and Cafe",
+    "type": "Restaurants",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/becardi.png",
+    "id": 21
+},
+{
+    "title": "Dominoes Pizza Jos",
+    "type": "Restaurants",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/dominoes.png",
+    "id": 22
+},
+{
+    "title": "Ozero's Cafe",
+    "type": "Restaurants",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/ozero.png",
+    "id": 23
+},
+{
+    "title": "Sweet November Bistro",
+    "type": "Restaurants",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/november.png",
+    "id": 24
+},
+{
+    "title": "Terminus Market",
+    "type": "Markets",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/Terminus.png",
+  
+    "id": 25
+},
+{
+    "title": "Tomatoes Market",
+    "type": "Markets",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/a2.png",
+    "id": 26
+},
+{
+    "title": "Katako Market",
+    "type": "Markets",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/a1.png",
+    "id": 27
+},
+{
+    "title": "Mai Adiko Market Jos",
+    "type": "Markets",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/a3.png",
+    "id": 28
+},
+{
+    "title": "Jos Wild Life Park",
+    "type": "Jos",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/wildlifepark.png",
+    "id": 29
+},
+{
+    "title": "Pandam Game Reserve",
+    "type": "Jos",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/pandamgame.png",
+    "id": 30
+},
+
+{
+    "title": "Kurra Falls",
+    "type": "Water Fall",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/fall2.png",
+    "id": 31
+},
+{
+    "title": "Jos Museum: A portal to past",
+    "type": "Museums",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/museum.png",
+    "id": 32
+},
+{
+    "title": "Riyom Rock: A Sculpture Rock",
+    "type": "Mountains",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/rock1.png",
+    "id": 33
+},
+{
+    "title": "The Tin Minin Museum",
+    "type": "Museums",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/museum3.png",
+    "id": 34
+},
+{
+    "title": "Solomon Lar Amusement Park: Fun for All Ages",
+    "type": "Amusement Parks",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/.png",
+    "id": 35
+},
+{
+    "title": "Assop Fall: Nature's Symphony",
+    "type": "Water Fall",
+   "date": "25th July to 5th August 2024",
+   "address": "6 sylvester Dabo close, Appollo Cress, South Plateau State5",
+   "image1":"/images/fall1.png",
+    "id": 36
+},
+{
+    "title": "Designers Meetup",
+    "type": "All",
+   "date": "25th July 2024",
+   "address": "Suit 70 Marinjo House Juction, Jos",
+   "image1":"/images/c1.png",
+   
+    "id": 37
+},
+{
+    "title": "Designers Meetup",
+    "type": "All",
+   "date": "25th July 2024",
+   "address": "Suit 70 Marinjo House Juction, Jos",
+   "image1":"/images/c1.png",
+   
+    "id": 38
+},
+{
+    "title": "The evidence is clear",
+    "type": "All",
+   "date": "26th June2024",
+   "address": "www.google.com.wwb.org",
+   "image1":"/images/c2.png",
+   
+    "id": 39
+},
+{
+    "title": "Config: Watch Party",
+    "type": "All",
+   "date": "25th July 2024",
+   "address": "Ignite Launge 6738 Shaka Rd, Jos",
+   "image1":"/images/c3.png",
+   
+    "id": 40
+},
+{
+    "title": "Free AI Classes: Every city",
+    "type": "All",
+   "date": "June -September 2024",
+   "address": "6 Sylvester Dabo Close, Jos",
+   "image1":"/images/c4.png",
+   
+    "id": 41
+},
+{
+    "title": "SDGS Advocate Programme",
+    "type": "All",
+   "date": "27th April 2024",
+   "address": "Google Meet",
+   "image1":"/images/c5.png",
+   
+    "id": 42
+},
+{
+    "title": "Orange Festival",
+    "type": "All",
+   "date": "Coming Soon",
+   "address": "To be Announced",
+   "image1":"/images/u1.png",
+   
+    "id":43
+},
+{
+    "title": "The dwelling Place",
+    "type": "All",
+   "date": "29th August -3rd September 2023",
+   "address": "Laming, Rayfield, Plateau State",
+   "image1":"/images/u2.png",
+   
+    "id":44 
+},
+
+{
+    "title": "Arduno Meetup",
+    "type": "All",
+   "date": "27th July 2024",
+   "address": "Nasco Marketing Company, Jos",
+   "image1":"/images/u3.png",
+   
+    "id":45 
+},
+
+{
+    "title": "Tech Meetup",
+    "type": "All",
+   "date": "16th-18th August 2024",
+   "address": "Rayfield Plateau Jos",
+   "image1":"/images/u4.png",
+   
+    "id":46 
+}
+
+
+
+    ]    
+
+}

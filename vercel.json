@@ -1,17 +1,19 @@
 {
-    "rewrites": [
-      { "source": "/(.*)", "destination": "/index.html" }
-    ],
+  
     "builds": [
       {
-        "src": "http://localhost:7000/dbdata",
+        "src": "data/db.json",
         "use": "@vercel/static-build",
         "config": {
           "distDir": "build"
         }
       }
     ],
-   
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/(.*)", "dest": "/index.html" }
+      
+    ],
     "env": {
       "NODE_ENV": "production"
     }

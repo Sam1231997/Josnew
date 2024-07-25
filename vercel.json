@@ -4,18 +4,14 @@
     ],
     "builds": [
       {
-        "src": "/data/db.json",
+        "src": "http://localhost:7000/dbdata",
         "use": "@vercel/static-build",
         "config": {
           "distDir": "build"
         }
       }
     ],
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "/index.html" }
-      
-    ],
+   
     "env": {
       "NODE_ENV": "production"
     }
